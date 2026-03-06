@@ -24,3 +24,7 @@ Power BI
 Data Visualization
 
 HR Analytics
+## 📷 Dashboard Snapshot
+
+[HR Analytics Dashboard](https://github.com/student-skumari/HR-Analytics-Dashboard/blob/main/HR_Analitition.pdf)
+
